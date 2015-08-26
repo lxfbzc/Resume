@@ -1,3 +1,3 @@
 # Resume
-first repository 
+first repository.
 My name is lxfbzc.
